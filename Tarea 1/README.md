@@ -64,9 +64,15 @@ Las versiones de Docker, GNU Octave, Python 3 y GCC deben obtenerse directamente
 4. Vista del contenedor en Docker Desktop:
 ![Docker Desktop](img/captura4.png)
 
-5. Programas ejecutándose dentro del contenedor:
-![Programas ejecutándose](img/captura5.png)
-
+5. Sus dos programas ejecutándose dentro del contenedor:
+* **Programa 1 - Captura A:**
+![Programa 1 - A](img/captura5.png)
+* **Programa 1 - Captura B:**
+![Programa 1 - B](img/captura6.png)
+* **Programa 1 - Captura C:**
+![Programa 2 - A](img/captura7.png)
+* **Programa 2 - Captura A:**
+![Programa 2 - B](img/captura8.png)
 
 ## Referencias bibliográficas
 
