@@ -26,12 +26,13 @@ Para `x = 0.5` y 3 cifras significativas se utilizó un error especificado de:
 
 ```text
 εs = 0.05 %
+
 ## 2. Las dos líneas que completamos en `maclaurin.c`
 
 ```c
-/* COMPLETAR 1 - Ejemplo de aproximación de término actual */
-termino = termino * x / i; 
-/* COMPLETAR 2 - Ejemplo de actualización de la aproximación acumulada */
+/* COMPLETAR 1 */
+termino = termino * x / i;
+/* COMPLETAR 2 */
 aproximacion = aproximacion + termino;
 ```
 
