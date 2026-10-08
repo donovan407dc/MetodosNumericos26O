@@ -25,7 +25,7 @@ Sí. Los resultados obtenidos en Octave y Python coinciden entre sí y siguen el
 Para `x = 0.5` y 3 cifras significativas se utilizó un error especificado de:
 
 ```text
-εs = 0.05 %
+εs = 0.05 %```
 
 ## 2. Las dos líneas que completamos en `maclaurin.c`
 
@@ -34,7 +34,7 @@ Para `x = 0.5` y 3 cifras significativas se utilizó un error especificado de:
 termino = termino * x / i;
 /* COMPLETAR 2 */
 aproximacion = aproximacion + termino;
-```
+
 
 ![C](img/03-c.png)
 
