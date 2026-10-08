@@ -27,7 +27,7 @@ termino = termino * x / i;
 aproximacion = aproximacion + termino;
 ```
 
-![C](img/03-c.png)
+![C](img/03--c.png)
 
 ## 3. Más cifras significativas
 
