@@ -5,36 +5,27 @@
 
 | | |
 |---|---|
-| **Equipo** | 1 |
-| **Integrantes (nombre, matrícula y licenciatura)** | Cruz Arreola Donovan David · 2253078038 · Ingeniería Eléctrica |
-| **Repositorio de la Tarea 1 de** | Donovan |
-| **Fecha** | 07/10/2026 |
-
----
+| Equipo | 1 |
+| Integrantes (nombre, matrícula y licenciatura) | Cruz Arreola Donovan David · 2253078038 · Ingeniería Eléctrica |
+| Repositorio de la Tarea 1 de | Donovan |
+| Fecha | 07/10/2026 |
 
 ## 1. Octave y Python
 
 ![Octave](img/01-octave.png)
-
 ![Python](img/02-python.png)
 
-### ¿Coinciden con la lámina 25 de la unidad I?
-
-Sí. Los resultados obtenidos en Octave y Python coinciden entre sí y siguen el procedimiento mostrado en la lámina 25 de la Unidad I.
-
-Para `x = 0.5` y 3 cifras significativas se utilizó un error especificado de:
-
-```text
-εs = 0.05 %```
+¿Coinciden con la lámina 25 de la unidad I?
+Sí, los resultados obtenidos en las ejecuciones de los scripts de Python (`maclaurin.py`) y Octave (`maclaurin.m`) coinciden perfectamente con los valores esperados de aproximación y comportamiento de errores teóricos para la aproximación de \(e^{0.5}\) con 3 cifras significativas.
 
 ## 2. Las dos líneas que completamos en `maclaurin.c`
 
 ```c
-/* COMPLETAR 1 */
-termino = termino * x / i;
-/* COMPLETAR 2 */
+/* COMPLETAR 1 - Ejemplo de aproximación de término actual */
+termino = termino * x / i; 
+/* COMPLETAR 2 - Ejemplo de actualización de la aproximación acumulada */
 aproximacion = aproximacion + termino;
-
+```
 
 ![C](img/03-c.png)
 
