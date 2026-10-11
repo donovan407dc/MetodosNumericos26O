@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Equipo | |
+| Equipo |1 |
 | Integrantes (nombre, matrícula y licenciatura) | |
 | Ecuación asignada | Número y problema |
 | Fecha | |
