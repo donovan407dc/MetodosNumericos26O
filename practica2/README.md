@@ -6,9 +6,9 @@
 | | |
 |---|---|
 | Equipo |1 |
-| Integrantes (nombre, matrícula y licenciatura) | |
-| Ecuación asignada | Número y problema |
-| Fecha | |
+| Integrantes (nombre, matrícula y licenciatura) |Donovan David Cruz Arreola 2253078038 ING. Electrica|
+| Ecuación asignada | Numero 11  Generador síncrono |
+| Fecha | 10/10/2026 |
 
 ---
 
@@ -122,7 +122,7 @@ su captura con un commit propio (ver `COMO_CORRER.md`, sección 7).
 | | | |
 | | | |
 
-![Integrante 1](img/07-integrante-apellido.png)
+![Integrante 1](img/07-Donovan-Cruz.png)
 
 ## Uso de inteligencia artificial
 
