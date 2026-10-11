@@ -118,7 +118,7 @@ su captura con un commit propio (ver `COMO_CORRER.md`, sección 7).
 
 | Integrante | Usuario de GitHub | Captura |
 |---|---|---|
-| | | `img/07-integrante-apellido.png` |
+| | | `img/07-Donovan-Cruz.png` |
 | | | |
 | | | |
 
