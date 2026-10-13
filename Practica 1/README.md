@@ -34,8 +34,8 @@ aproximacion = aproximacion + termino;
 | Cifras | εs (%) | Términos | Aproximación | Error verdadero (%) |
 |---|---|---|---|---|
 | 3 | 0.05 | 6 | 1.648697916666667 | 0.00141649 |
-| 6 | [Corre el programa cambiando a 6 cifras y pon el % aquí] | [Términos aquí] | [Aproximación aquí] | [Error aquí] |
-| 17 | [Corre el programa cambiando a 17 cifras y pon el % aquí] | [Términos aquí] | [Aproximación aquí] | [Error aquí] |
+| 6 | |  |  | |
+| 17 |  |  | | |
 
 1. **¿Cuántos términos hacen falta en cada caso?**
    Para 3 cifras significativas hacen falta **6 términos** (como se observa en las ejecuciones de Python y Octave). *[Nota: añade aquí cuántos términos te salieron al ejecutar el programa para 6 y 17 cifras]*.
