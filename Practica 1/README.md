@@ -38,7 +38,7 @@ aproximacion = aproximacion + termino;
 | 17 |  |  | | |
 
 1. **¿Cuántos términos hacen falta en cada caso?**
-   Para 3 cifras significativas hacen falta **6 términos** (como se observa en las ejecuciones de Python y Octave). *[Nota: añade aquí cuántos términos te salieron al ejecutar el programa para 6 y 17 cifras]*.
+   Para 3 cifras significativas hacen falta **6 términos** (como se observa en las ejecuciones de Python y Octave).
 
 2. **En cada fila de la tabla, ¿εa es mayor o menor que εt? ¿Por qué conviene detenerse con εa?**
    En la última iteración, el error aproximado \(\varepsilon_a\) es **menor** que el error verdadero \(\varepsilon_t\) (por ejemplo, en el término 6 de Python/Octave, \(\varepsilon_a = 0.0157\%\) mientras que \(\varepsilon_t = 0.0014\%\)). Conviene detenerse con \(\varepsilon_a\) porque en un problema de ingeniería real **no conocemos el valor verdadero** (y por lo tanto no podemos calcular \(\varepsilon_t\)). El criterio de Scarborough mediante \(\varepsilon_a \le \varepsilon_s\) nos da una garantía matemática confiable de que el resultado ya es lo suficientemente preciso sin requerir el valor real.
